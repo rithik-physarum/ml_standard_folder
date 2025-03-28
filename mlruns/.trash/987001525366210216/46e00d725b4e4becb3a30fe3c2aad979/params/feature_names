@@ -1,0 +1,1 @@
+['Pclass', 'Age', 'SibSp', 'Parch', 'Fare', 'Sex_male', 'Embarked_Q', 'Embarked_S', 'Title_Miss', 'Title_Mr', 'Title_Mrs', 'Title_Ms', 'Title_Other', 'FamilySize', 'IsAlone', 'target']

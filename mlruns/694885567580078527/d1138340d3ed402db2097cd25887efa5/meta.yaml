@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/rithikmaligi/Documents/Training/Agentic_Approach/ML_project/mlruns/694885567580078527/d1138340d3ed402db2097cd25887efa5/artifacts
+end_time: 1743085120149
+entry_point_name: ''
+experiment_id: '694885567580078527'
+lifecycle_stage: active
+run_id: d1138340d3ed402db2097cd25887efa5
+run_name: full_pipeline_8
+run_uuid: d1138340d3ed402db2097cd25887efa5
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1743085120146
+status: 3
+tags: []
+user_id: rithikmaligi
