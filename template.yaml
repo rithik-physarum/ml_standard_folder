@@ -1,0 +1,8 @@
+id: ml_1
+name: Standard Config based ML Repo
+description: >
+  This template can be used to develop a complete end-to-end ML solution
+  right from data cleaning till model deployment.
+structure: {}
+language: Python
+source: N/A
